@@ -33,7 +33,7 @@ Seuraavaksi tarkistin muutokset git lokista:
 
     git log --patch
    
-![kuva got log-komennon tuloksesta](https://github.com/nellilaajaranta/carrepo/blob/main/pictures/offline%20git.jpg"offlinegit")
+![kuva got log-komennon tuloksesta](https://github.com/nellilaajaranta/carrepo/blob/main/pictures/offline%20git.jpg)
   
     
     
