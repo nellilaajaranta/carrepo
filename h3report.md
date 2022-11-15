@@ -55,4 +55,21 @@ Tämän turhan lisäyksen saa pois palaamalle aikaisempaan versioon. Tämä tapa
 
 Loin uuden GitHub-varaston nimeltä carrepo, jossa tämä tehtäväraporttikin sijaitsee. [Linkki](https://github.com/nellilaajaranta/carrepo)
 
+> e) Dolly. Kloonaa edellisessä kohdassa tehty varasto itsellesi, tee muutoksia, puske ne palvelimelle, ja näytä, että ne ilmestyvät weppiliittymään.
+
+Loin uuden hakemiston, johon aion GitHub-hakemiston lisätä.
+
+        mkdir carrepo
+        
+Sitten kopion GitHubista linkin carrepo-hakemistosta kloonausta varten.
+
+![kuva linkista](https://github.com/nellilaajaranta/carrepo/blob/main/pictures/githublink.jpg)
+
+Menen cd -komennolla luomaani hakemistoon ja seuraavalla komennolla kloonaan GitHub-hakemiston omalle koneelleni:
+
+        git clone git@github.com:nellilaajaranta/carrepo.git
+        
+![kloonaus onnistui](https://github.com/nellilaajaranta/carrepo/blob/main/pictures/cloning.jpg)
+
+ls
 
