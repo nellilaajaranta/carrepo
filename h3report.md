@@ -51,3 +51,8 @@ Tämän turhan lisäyksen saa pois palaamalle aikaisempaan versioon. Tämä tapa
         
  Nyt readme-tiedosto on palautunut vanhaan versioon, jossa turhaa tekstiä ei enää ole.
     
+ > d) Online. Tee uusi varasto GitHubiin (tai Gitlabiin tai mihin vain vastaavaan palveluun). Varaston nimessä ja lyhyessä kuvauksessa tulee olla sana "car" (auto). Aiemmin tehty varasto ei kelpaa. (Muista tehdä varastoon tiedostoja luomisvaiheessa, suosittelen tekemään README.md ja vapaista lisensseistä itse tykkään GPLv3 eli GNU General Public License, version 3)
+
+Loin uuden GitHub-varaston nimeltä carrepo, jossa tämä tehtäväraporttikin sijaitsee. [Linkki](https://github.com/nellilaajaranta/carrepo)
+
+
