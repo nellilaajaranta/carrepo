@@ -32,9 +32,9 @@ tämän jälkeen muutokset lisätään gitiin komennolla:
 Seuraavaksi tarkistin muutokset git lokista:
 
     git log --patch
-    
-    git log -komennon tulokset:
-    ![alt text](https://github.com/nellilaajaranta/carrepo/blob/main/pictures/offline%20git.jpg"offlinegit")
+   
+git log -komennon tulokset:
+![alt text](https://github.com/nellilaajaranta/carrepo/blob/main/pictures/offline%20git.jpg"offlinegit")
   
     
     
