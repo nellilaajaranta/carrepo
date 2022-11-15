@@ -35,5 +35,19 @@ Seuraavaksi tarkistin muutokset git lokista:
    
 ![kuva got log-komennon tuloksesta](https://github.com/nellilaajaranta/carrepo/blob/main/pictures/offline%20git.jpg)
   
-    
+ Kuvassa näkyy bit log-komennon tulokset.
+ 
+ > c) Doh! Tee tyhmä muutos gittiin, älä tee commit:tia. Tuhoa huonot muutokset ‘git reset --hard’. Huomaa, että tässä toiminnossa ei ole peruutusnappia.
+
+Seuraavaksi tein tyhmän muutoksen gitiin. Muokkasin readme-tiedostoon turhaa sekä lisäsin sen commitoitavaksi.
+
+![kuva muutoksesta](https://github.com/nellilaajaranta/carrepo/blob/main/pictures/useless%20line.jpg)
+
+![git status](https://github.com/nellilaajaranta/carrepo/blob/main/pictures/addeduseless.jpg)
+
+Tämän turhan lisäyksen saa pois palaamalle aikaisempaan versioon. Tämä tapahtuu seuraavalla komennolla:
+
+        git reset --hard
+        
+ Nyt readme-tiedosto on palautunut vanhaan versioon, jossa turhaa tekstiä ei enää ole.
     
