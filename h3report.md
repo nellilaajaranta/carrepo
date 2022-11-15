@@ -71,5 +71,13 @@ Menen cd -komennolla luomaani hakemistoon ja seuraavalla komennolla kloonaan Git
         
 ![kloonaus onnistui](https://github.com/nellilaajaranta/carrepo/blob/main/pictures/cloning.jpg)
 
-ls
+Muokkasin README.md -tiedostoa nano-tekstieditorilla: lisäsin sinne uuden rivin tekstiä.
+
+![readmeedit](https://github.com/nellilaajaranta/carrepo/blob/main/pictures/readme%20edit.jpg)
+
+Lisäsin muokkauksen Githubiin seuraavalla komennolla:
+
+        git add . && git commit ; git pull; git push
+        
+![paivitetty github](https://github.com/nellilaajaranta/carrepo/blob/main/pictures/add%20change%20github.jpg)
 
